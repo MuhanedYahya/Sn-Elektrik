@@ -1,0 +1,389 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="gunaAnimateWindow1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>8, 16</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>499, 549</value>
+  </data>
+  <data name="LoginPanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 84</value>
+  </data>
+  <data name="LoginPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>473, 453</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="LoginPanel.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;LoginPanel.Name" xml:space="preserve">
+    <value>LoginPanel</value>
+  </data>
+  <data name="&gt;&gt;LoginPanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LoginPanel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LoginPanel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="gunaAdvenceButton1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt, style=Bold</value>
+  </data>
+  <data name="gunaAdvenceButton1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 4</value>
+  </data>
+  <data name="gunaAdvenceButton1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>146, 53</value>
+  </data>
+  <data name="gunaAdvenceButton1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="gunaAdvenceButton1.Text" xml:space="preserve">
+    <value>Elektrik</value>
+  </data>
+  <data name="&gt;&gt;gunaAdvenceButton1.Name" xml:space="preserve">
+    <value>gunaAdvenceButton1</value>
+  </data>
+  <data name="&gt;&gt;gunaAdvenceButton1.Type" xml:space="preserve">
+    <value>Guna.UI.WinForms.GunaAdvenceButton, Guna.UI, Version=1.9.0.1, Culture=neutral, PublicKeyToken=ad275b4be6718d4b</value>
+  </data>
+  <data name="&gt;&gt;gunaAdvenceButton1.Parent" xml:space="preserve">
+    <value>gunaLinePanel1</value>
+  </data>
+  <data name="&gt;&gt;gunaAdvenceButton1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="gunaAdvenceButton3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt, style=Bold</value>
+  </data>
+  <data name="gunaAdvenceButton3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>318, 4</value>
+  </data>
+  <data name="gunaAdvenceButton3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>146, 53</value>
+  </data>
+  <data name="gunaAdvenceButton3.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="gunaAdvenceButton3.Text" xml:space="preserve">
+    <value>Doğal Gaz</value>
+  </data>
+  <data name="&gt;&gt;gunaAdvenceButton3.Name" xml:space="preserve">
+    <value>gunaAdvenceButton3</value>
+  </data>
+  <data name="&gt;&gt;gunaAdvenceButton3.Type" xml:space="preserve">
+    <value>Guna.UI.WinForms.GunaAdvenceButton, Guna.UI, Version=1.9.0.1, Culture=neutral, PublicKeyToken=ad275b4be6718d4b</value>
+  </data>
+  <data name="&gt;&gt;gunaAdvenceButton3.Parent" xml:space="preserve">
+    <value>gunaLinePanel1</value>
+  </data>
+  <data name="&gt;&gt;gunaAdvenceButton3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="gunaAdvenceButton2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt, style=Bold</value>
+  </data>
+  <data name="gunaAdvenceButton2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>166, 4</value>
+  </data>
+  <data name="gunaAdvenceButton2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>146, 53</value>
+  </data>
+  <data name="gunaAdvenceButton2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="gunaAdvenceButton2.Text" xml:space="preserve">
+    <value>Su</value>
+  </data>
+  <data name="&gt;&gt;gunaAdvenceButton2.Name" xml:space="preserve">
+    <value>gunaAdvenceButton2</value>
+  </data>
+  <data name="&gt;&gt;gunaAdvenceButton2.Type" xml:space="preserve">
+    <value>Guna.UI.WinForms.GunaAdvenceButton, Guna.UI, Version=1.9.0.1, Culture=neutral, PublicKeyToken=ad275b4be6718d4b</value>
+  </data>
+  <data name="&gt;&gt;gunaAdvenceButton2.Parent" xml:space="preserve">
+    <value>gunaLinePanel1</value>
+  </data>
+  <data name="&gt;&gt;gunaAdvenceButton2.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="gunaLinePanel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 5</value>
+  </data>
+  <data name="gunaLinePanel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>469, 73</value>
+  </data>
+  <data name="gunaLinePanel1.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;gunaLinePanel1.Name" xml:space="preserve">
+    <value>gunaLinePanel1</value>
+  </data>
+  <data name="&gt;&gt;gunaLinePanel1.Type" xml:space="preserve">
+    <value>Guna.UI.WinForms.GunaLinePanel, Guna.UI, Version=1.9.0.1, Culture=neutral, PublicKeyToken=ad275b4be6718d4b</value>
+  </data>
+  <data name="&gt;&gt;gunaLinePanel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;gunaLinePanel1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAIAEBAAAAEAIABoBAAAJgAAACAgAAABACAAqBAAAI4EAAAoAAAAEAAAACAAAAABACAAAAAAADAE
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwcHEoaGhvcGhoapAAAAAAaGhpGGhobxRoa
+        G/caGhvEGxsbQwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB0dHSMaGhv4GxsbmSQkJAcbGxtpGhob/hkZ
+        HN4aGhprGhocphoaG/4aGhpEAAAAAAAAAAAAAAAAAAAAAAAAAAAaGhyAGhob2AAAAAAbGxtDGhob/RkZ
+        HZgaGhv2GhocZAAAAAAaGhuqGhobxQAAAAAAAAAAAAAAAAAAAAAAAAAAGxsbohoaG7EAAAACGhob2xsb
+        G6wAAAAAGhoatxkZG6EAAAAAGxsbXhoaG/cAAAAAAAAAAAAAAAAAAAAAAAAAABoaGpIaGhvOHx8fGRoa
+        GrcZGRkpICAgEBoaG+YaGhyBAAAAABsbG1YaGhv/AAAAAAAAAAAAAAAAAAAAAAAAAAAbGxtVGhob+xwc
+        HCQAAAAAHBwcLhoaHMwaGhvmFRUgGAAAAAAaGhodGxsbVQAAAAAAAAAAAAAAAAAAAAAAAAAAKysrBhoa
+        G+MZGRu/GhoawRoaG/4aGhvGHBwcJAAAAAAAAAAAFhYWFxoaGkQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAbGxtLGhob8hoaG6oZGRxRAAAAAQAAAAAAAAAAAAAAABsbG1UaGhv/AAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAB0dHRoaGhzSGhob/BkZG40AAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhoaUAAAAAAbGxuPGhob3BoaHHcaGhv/HBwcNxoa
+        GigaGhonAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGRkbjhoaG9saGhxtGhob/xwc
+        HDcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhoaUB0dHRobGxvAGhob6RkZ
+        G44AAAAAGhoaUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//AAD//wAA5j8AAMyfAACYzwAAkm8AAJZvAADc/wAAwf8AAOfv
+        AAD/xwAA/5cAAP+XAAD/xwAA//8AAP//AAAoAAAAIAAAAEAAAAABACAAAAAAAIAQAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        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
+        AAAAAAAAHBwcNhoaG9EAAAAAAAAAABkZGT0aGhv/Ghob/xsbG3sAAAAAGhoaKBoaG/8aGhv/GxsbkAAA
+        AAAAAAAAGRkbhBkZG4MAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhoaOxoaG/8aGhv/GxsbfAAAAAAYGBgqGhob/xoa
+        G/8ZGRuOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVFRUMGhoc8RoaG/8aGhv7GRkbtRoa
+        G+gaGhv/Ghob/xoaGlAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZGRkzICAgCAAAAAAaGhpiGhob/hoa
+        G/8aGhv/Ghob/xoaG/8aGhuzAAAAAAAAAAAZGRkzICAgCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoaG9IYGB01AAAAAAAA
+        AAAYGBxJGhobwxoaG+kaGhvSGhoafzMzMwUAAAAAAAAAABoaG9IYGB01AAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/////////////////////8Ph//+HgH//DwA//h4OH/48Bx/+OM
+        eP/njnj/5x54/+cceP/jvHj/4/j8//Pg///xgf//8Af8//gf+P/8f/j////4////8D///+A///7nGf//
+        5x///+A////wP///ePf/////////////////////
+</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>SN Energy</value>
+  </data>
+  <data name="&gt;&gt;gunaAnimateWindow1.Name" xml:space="preserve">
+    <value>gunaAnimateWindow1</value>
+  </data>
+  <data name="&gt;&gt;gunaAnimateWindow1.Type" xml:space="preserve">
+    <value>Guna.UI.WinForms.GunaAnimateWindow, Guna.UI, Version=1.9.0.1, Culture=neutral, PublicKeyToken=ad275b4be6718d4b</value>
+  </data>
+  <data name="&gt;&gt;guna2DragControl1.Name" xml:space="preserve">
+    <value>guna2DragControl1</value>
+  </data>
+  <data name="&gt;&gt;guna2DragControl1.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2DragControl, Guna.UI2, Version=2.0.1.2, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;guna2Elipse1.Name" xml:space="preserve">
+    <value>guna2Elipse1</value>
+  </data>
+  <data name="&gt;&gt;guna2Elipse1.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2Elipse, Guna.UI2, Version=2.0.1.2, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>LogIn</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <metadata name="guna2DragControl1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>225, 17</value>
+  </metadata>
+  <metadata name="guna2Elipse1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>413, 17</value>
+  </metadata>
+</root>

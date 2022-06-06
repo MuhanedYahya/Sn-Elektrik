@@ -1,0 +1,153 @@
+E:\uiprogect\uiprogect\bin\Debug\uiprogect.exe.config
+E:\uiprogect\uiprogect\bin\Debug\uiprogect.exe
+E:\uiprogect\uiprogect\bin\Debug\uiprogect.pdb
+E:\uiprogect\uiprogect\bin\Debug\Guna.UI.dll
+E:\uiprogect\uiprogect\obj\Debug\uiprogect.Properties.Resources.resources
+E:\uiprogect\uiprogect\obj\Debug\uiprogect.csproj.GenerateResource.cache
+E:\uiprogect\uiprogect\obj\Debug\uiprogect.csproj.CoreCompileInputs.cache
+E:\uiprogect\uiprogect\obj\Debug\uiprogect.csproj.CopyComplete
+E:\uiprogect\uiprogect\obj\Debug\uiprogect.exe
+E:\uiprogect\uiprogect\obj\Debug\uiprogect.pdb
+E:\uiprogect\uiprogect\bin\Debug\Guna.UI2.dll
+E:\uiprogect\uiprogect\obj\Debug\uiprogect.Borde.resources
+E:\uiprogect\uiprogect\obj\Debug\uiprogect.LogIn.resources
+E:\uiprogect\uiprogect\obj\Debug\uiprogect.deney.resources
+E:\uiprogect\uiprogect\obj\Debug\uiprogect.Abone_user.resources
+E:\uiprogect\uiprogect\obj\Debug\uiprogect.Hesab_user.resources
+E:\uiprogect\uiprogect\obj\Debug\uiprogect.Alist.resources
+E:\uiprogect\uiprogect\obj\Debug\uiprogect.G_elektrik.resources
+E:\uiprogect\uiprogect\obj\Debug\uiprogect.G_Gaz.resources
+E:\uiprogect\uiprogect\obj\Debug\uiprogect.G_Su.resources
+E:\uiprogect\uiprogect\obj\Debug\uiprogect.Elektrik.resources
+E:\uiprogect\uiprogect\obj\Debug\uiprogect.Gaz.resources
+E:\uiprogect\uiprogect\obj\Debug\uiprogect.Su.resources
+E:\uiprogect\uiprogect\obj\Debug\uiprogect.Abilgi.resources
+E:\uiprogect\uiprogect\obj\Debug\uiprogect.Kapat.resources
+E:\uiprogect\uiprogect\obj\Debug\uiprogect.Talep.resources
+E:\uiprogect\uiprogect\obj\Debug\uiprogect.Fatura.resources
+E:\uiprogect\uiprogect\obj\Debug\uiprogect.Sorun.resources
+E:\uiprogect\uiprogect\obj\Debug\uiprogect.Et.resources
+E:\uiprogect\uiprogect\obj\Debug\uiprogect.Guncelle.resources
+E:\uiprogect\uiprogect\obj\Debug\uiprogect.csprojAssemblyReference.cache
+E:\uiprogect\uiprogect\obj\Debug\uiprogect.AboneOL.resources
+E:\uiprogect\uiprogect\obj\Debug\uiprogect.Odeme.resources
+E:\uiprogect\uiprogect\uiprogect\obj\Debug\uiprogect.csprojAssemblyReference.cache
+E:\uiprogect\uiprogect\uiprogect\obj\Debug\uiprogect.Abilgi.resources
+E:\uiprogect\uiprogect\uiprogect\obj\Debug\uiprogect.AboneOL.resources
+E:\uiprogect\uiprogect\uiprogect\obj\Debug\uiprogect.deney.resources
+E:\uiprogect\uiprogect\uiprogect\obj\Debug\uiprogect.Elektrik.resources
+E:\uiprogect\uiprogect\uiprogect\obj\Debug\uiprogect.Et.resources
+E:\uiprogect\uiprogect\uiprogect\obj\Debug\uiprogect.Fatura.resources
+E:\uiprogect\uiprogect\uiprogect\obj\Debug\uiprogect.LogIn.resources
+E:\uiprogect\uiprogect\uiprogect\obj\Debug\uiprogect.Guncelle.resources
+E:\uiprogect\uiprogect\uiprogect\obj\Debug\uiprogect.Odeme.resources
+E:\uiprogect\uiprogect\uiprogect\obj\Debug\uiprogect.Sorun.resources
+E:\uiprogect\uiprogect\uiprogect\obj\Debug\uiprogect.Gaz.resources
+E:\uiprogect\uiprogect\uiprogect\obj\Debug\uiprogect.G_elektrik.resources
+E:\uiprogect\uiprogect\uiprogect\obj\Debug\uiprogect.G_Gaz.resources
+E:\uiprogect\uiprogect\uiprogect\obj\Debug\uiprogect.G_Su.resources
+E:\uiprogect\uiprogect\uiprogect\obj\Debug\uiprogect.Hesab_user.resources
+E:\uiprogect\uiprogect\uiprogect\obj\Debug\uiprogect.Kapat.resources
+E:\uiprogect\uiprogect\uiprogect\obj\Debug\uiprogect.Su.resources
+E:\uiprogect\uiprogect\uiprogect\obj\Debug\uiprogect.Talep.resources
+E:\uiprogect\uiprogect\uiprogect\obj\Debug\uiprogect.csproj.GenerateResource.cache
+E:\uiprogect\uiprogect\uiprogect\obj\Debug\uiprogect.exe
+E:\uiprogect\uiprogect\uiprogect\obj\Debug\uiprogect.pdb
+E:\uiprogect\uiprogect\uiprogect\obj\Debug\uiprogect.Properties.Resources.resources
+E:\uiprogect\uiprogect\uiprogect\obj\Debug\uiprogect.csproj.CoreCompileInputs.cache
+E:\uiprogect\uiprogect\uiprogect\bin\Debug\uiprogect.exe.config
+E:\uiprogect\uiprogect\uiprogect\bin\Debug\uiprogect.exe
+E:\uiprogect\uiprogect\uiprogect\bin\Debug\uiprogect.pdb
+E:\uiprogect\uiprogect\uiprogect\bin\Debug\Guna.UI2.dll
+E:\uiprogect\uiprogect\uiprogect\obj\Debug\uiprogect.csproj.CopyComplete
+C:\Users\mrmoh\source\repos\uiprogect\uiprogect\bin\Debug\uiprogect.exe.config
+C:\Users\mrmoh\source\repos\uiprogect\uiprogect\bin\Debug\uiprogect.exe
+C:\Users\mrmoh\source\repos\uiprogect\uiprogect\bin\Debug\uiprogect.pdb
+C:\Users\mrmoh\source\repos\uiprogect\uiprogect\bin\Debug\Guna.UI2.dll
+C:\Users\mrmoh\source\repos\uiprogect\uiprogect\obj\Debug\uiprogect.csprojAssemblyReference.cache
+C:\Users\mrmoh\source\repos\uiprogect\uiprogect\obj\Debug\uiprogect.Abilgi.resources
+C:\Users\mrmoh\source\repos\uiprogect\uiprogect\obj\Debug\uiprogect.AboneOL.resources
+C:\Users\mrmoh\source\repos\uiprogect\uiprogect\obj\Debug\uiprogect.deney.resources
+C:\Users\mrmoh\source\repos\uiprogect\uiprogect\obj\Debug\uiprogect.Elektrik.resources
+C:\Users\mrmoh\source\repos\uiprogect\uiprogect\obj\Debug\uiprogect.Et.resources
+C:\Users\mrmoh\source\repos\uiprogect\uiprogect\obj\Debug\uiprogect.Fatura.resources
+C:\Users\mrmoh\source\repos\uiprogect\uiprogect\obj\Debug\uiprogect.LogIn.resources
+C:\Users\mrmoh\source\repos\uiprogect\uiprogect\obj\Debug\uiprogect.Guncelle.resources
+C:\Users\mrmoh\source\repos\uiprogect\uiprogect\obj\Debug\uiprogect.Odeme.resources
+C:\Users\mrmoh\source\repos\uiprogect\uiprogect\obj\Debug\uiprogect.Sorun.resources
+C:\Users\mrmoh\source\repos\uiprogect\uiprogect\obj\Debug\uiprogect.Gaz.resources
+C:\Users\mrmoh\source\repos\uiprogect\uiprogect\obj\Debug\uiprogect.G_elektrik.resources
+C:\Users\mrmoh\source\repos\uiprogect\uiprogect\obj\Debug\uiprogect.G_Gaz.resources
+C:\Users\mrmoh\source\repos\uiprogect\uiprogect\obj\Debug\uiprogect.G_Su.resources
+C:\Users\mrmoh\source\repos\uiprogect\uiprogect\obj\Debug\uiprogect.Hesab_user.resources
+C:\Users\mrmoh\source\repos\uiprogect\uiprogect\obj\Debug\uiprogect.Kapat.resources
+C:\Users\mrmoh\source\repos\uiprogect\uiprogect\obj\Debug\uiprogect.Properties.Resources.resources
+C:\Users\mrmoh\source\repos\uiprogect\uiprogect\obj\Debug\uiprogect.Su.resources
+C:\Users\mrmoh\source\repos\uiprogect\uiprogect\obj\Debug\uiprogect.Talep.resources
+C:\Users\mrmoh\source\repos\uiprogect\uiprogect\obj\Debug\uiprogect.csproj.GenerateResource.cache
+C:\Users\mrmoh\source\repos\uiprogect\uiprogect\obj\Debug\uiprogect.csproj.CoreCompileInputs.cache
+C:\Users\mrmoh\source\repos\uiprogect\uiprogect\obj\Debug\uiprogect.csproj.CopyComplete
+C:\Users\mrmoh\source\repos\uiprogect\uiprogect\obj\Debug\uiprogect.exe
+C:\Users\mrmoh\source\repos\uiprogect\uiprogect\obj\Debug\uiprogect.pdb
+C:\Enesle projemiz\uiprogect\uiprogect\bin\Debug\uiprogect.exe.config
+C:\Enesle projemiz\uiprogect\uiprogect\bin\Debug\uiprogect.exe
+C:\Enesle projemiz\uiprogect\uiprogect\bin\Debug\uiprogect.pdb
+C:\Enesle projemiz\uiprogect\uiprogect\bin\Debug\Guna.UI2.dll
+C:\Enesle projemiz\uiprogect\uiprogect\obj\Debug\uiprogect.csprojAssemblyReference.cache
+C:\Enesle projemiz\uiprogect\uiprogect\obj\Debug\uiprogect.Abilgi.resources
+C:\Enesle projemiz\uiprogect\uiprogect\obj\Debug\uiprogect.AboneOL.resources
+C:\Enesle projemiz\uiprogect\uiprogect\obj\Debug\uiprogect.Elektrik.resources
+C:\Enesle projemiz\uiprogect\uiprogect\obj\Debug\uiprogect.Fatura.resources
+C:\Enesle projemiz\uiprogect\uiprogect\obj\Debug\uiprogect.LogIn.resources
+C:\Enesle projemiz\uiprogect\uiprogect\obj\Debug\uiprogect.Guncelle.resources
+C:\Enesle projemiz\uiprogect\uiprogect\obj\Debug\uiprogect.Odeme.resources
+C:\Enesle projemiz\uiprogect\uiprogect\obj\Debug\uiprogect.Gaz.resources
+C:\Enesle projemiz\uiprogect\uiprogect\obj\Debug\uiprogect.G_elektrik.resources
+C:\Enesle projemiz\uiprogect\uiprogect\obj\Debug\uiprogect.G_Gaz.resources
+C:\Enesle projemiz\uiprogect\uiprogect\obj\Debug\uiprogect.G_Su.resources
+C:\Enesle projemiz\uiprogect\uiprogect\obj\Debug\uiprogect.Hesab_user.resources
+C:\Enesle projemiz\uiprogect\uiprogect\obj\Debug\uiprogect.Kapat.resources
+C:\Enesle projemiz\uiprogect\uiprogect\obj\Debug\uiprogect.Properties.Resources.resources
+C:\Enesle projemiz\uiprogect\uiprogect\obj\Debug\uiprogect.Su.resources
+C:\Enesle projemiz\uiprogect\uiprogect\obj\Debug\uiprogect.Talep.resources
+C:\Enesle projemiz\uiprogect\uiprogect\obj\Debug\uiprogect.csproj.GenerateResource.cache
+C:\Enesle projemiz\uiprogect\uiprogect\obj\Debug\uiprogect.csproj.CoreCompileInputs.cache
+C:\Enesle projemiz\uiprogect\uiprogect\obj\Debug\uiprogect.csproj.CopyComplete
+C:\Enesle projemiz\uiprogect\uiprogect\obj\Debug\uiprogect.exe
+C:\Enesle projemiz\uiprogect\uiprogect\obj\Debug\uiprogect.pdb
+C:\Enesle projemiz\uiprogect\uiprogect\obj\Debug\uiprogect.Gaz_AboneOl.resources
+C:\Enesle projemiz\uiprogect\uiprogect\obj\Debug\uiprogect.Su_AboneOl.resources
+C:\Backup-of-proje\uiprogect\uiprogect\bin\Debug\uiprogect.exe.config
+C:\Backup-of-proje\uiprogect\uiprogect\bin\Debug\uiprogect.exe
+C:\Backup-of-proje\uiprogect\uiprogect\bin\Debug\uiprogect.pdb
+C:\Backup-of-proje\uiprogect\uiprogect\bin\Debug\Guna.UI2.dll
+C:\Backup-of-proje\uiprogect\uiprogect\obj\Debug\uiprogect.csprojAssemblyReference.cache
+C:\Backup-of-proje\uiprogect\uiprogect\obj\Debug\uiprogect.Abilgi.resources
+C:\Backup-of-proje\uiprogect\uiprogect\obj\Debug\uiprogect.AboneOL.resources
+C:\Backup-of-proje\uiprogect\uiprogect\obj\Debug\uiprogect.deney.resources
+C:\Backup-of-proje\uiprogect\uiprogect\obj\Debug\uiprogect.Elektrik.resources
+C:\Backup-of-proje\uiprogect\uiprogect\obj\Debug\uiprogect.Et.resources
+C:\Backup-of-proje\uiprogect\uiprogect\obj\Debug\uiprogect.Fatura.resources
+C:\Backup-of-proje\uiprogect\uiprogect\obj\Debug\uiprogect.LogIn.resources
+C:\Backup-of-proje\uiprogect\uiprogect\obj\Debug\uiprogect.Gaz_AboneOl.resources
+C:\Backup-of-proje\uiprogect\uiprogect\obj\Debug\uiprogect.Guncelle.resources
+C:\Backup-of-proje\uiprogect\uiprogect\obj\Debug\uiprogect.Odeme.resources
+C:\Backup-of-proje\uiprogect\uiprogect\obj\Debug\uiprogect.Sorun.resources
+C:\Backup-of-proje\uiprogect\uiprogect\obj\Debug\uiprogect.Gaz.resources
+C:\Backup-of-proje\uiprogect\uiprogect\obj\Debug\uiprogect.G_elektrik.resources
+C:\Backup-of-proje\uiprogect\uiprogect\obj\Debug\uiprogect.G_Gaz.resources
+C:\Backup-of-proje\uiprogect\uiprogect\obj\Debug\uiprogect.G_Su.resources
+C:\Backup-of-proje\uiprogect\uiprogect\obj\Debug\uiprogect.Hesab_user.resources
+C:\Backup-of-proje\uiprogect\uiprogect\obj\Debug\uiprogect.Kapat.resources
+C:\Backup-of-proje\uiprogect\uiprogect\obj\Debug\uiprogect.Properties.Resources.resources
+C:\Backup-of-proje\uiprogect\uiprogect\obj\Debug\uiprogect.Su_AboneOl.resources
+C:\Backup-of-proje\uiprogect\uiprogect\obj\Debug\uiprogect.Su.resources
+C:\Backup-of-proje\uiprogect\uiprogect\obj\Debug\uiprogect.Talep.resources
+C:\Backup-of-proje\uiprogect\uiprogect\obj\Debug\uiprogect.csproj.GenerateResource.cache
+C:\Backup-of-proje\uiprogect\uiprogect\obj\Debug\uiprogect.csproj.CoreCompileInputs.cache
+C:\Backup-of-proje\uiprogect\uiprogect\obj\Debug\uiprogect.csproj.CopyComplete
+C:\Backup-of-proje\uiprogect\uiprogect\obj\Debug\uiprogect.exe
+C:\Backup-of-proje\uiprogect\uiprogect\obj\Debug\uiprogect.pdb
+C:\Enesle projemiz\uiprogect\uiprogect\obj\Debug\uiprogect.Formlar.sifreYenile.resources
+C:\Enesle projemiz\uiprogect\uiprogect\obj\Debug\uiprogect.UserControls.webBrowser.resources
+C:\Enesle projemiz\uiprogect\uiprogect\obj\Debug\uiprogect.UserControls.sikayet.resources
